@@ -1,0 +1,17 @@
+Who developed Python?
+Guido van Rossum.
+
+Why is the language called Python?
+monty  pythons circus in bbc tv show
+
+2, programmer is who develops software or programs
+3, programming language is a set of words symbols and rules to write programming language 
+11,design to create class 
+12,actual item created from class
+60,literl s are fixed values in program 
+37,identifier a name used to identify a variable 
+65 variable is a named location
+38, fast api is a framework to develop web api
+22, data visualisation ,analysis,libraries for data processing
+2bb f-fg Dhd keywords
+

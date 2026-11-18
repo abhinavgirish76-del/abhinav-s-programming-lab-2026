@@ -1,0 +1,5 @@
+1.python is a great language
+2.yeah it indeed a simple language
+3.it is reliable
+4.portable
+5.secure
